@@ -1,11 +1,11 @@
-# Rode-Clone [![Template Project](https://img.shields.io/badge/Technologies%20-HTML%2FCSS-brightgreen)](http://www.gnu.org/licenses/agpl-3.0)
+# Rode-Clone
 
 This is basically a clone of [Rode](https://rode.com/en) made purely in HTML5 and tailwind css a utility first css Framework.
 This has also been made mobile responsive for better view using Tailwind CSS
 Hope you like my project !!
 
 ## Technologies Used
-  - HTML - Hyper Text Markup Language
+  - HTML
   - Tailwind css - A Utility First Framework of CSS
 
 ## Demo
@@ -28,10 +28,6 @@ Go to the project directory
 ```bash
   cd Rode-clone
 ```
-## Author and Contact
-- [Find-coder](https://www.findcoder.io/u/suhas_sm)
-    - [![facebook](https://img.shields.io/badge/Facebook-0A66C2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/suhas.melmuri)
-    - [![instagram](https://img.shields.io/badge/Instagram-0A66C2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_suhas_sm/)
 
 ## Features
 
